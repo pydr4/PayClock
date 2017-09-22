@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PayClock</string>
+    <string name="btn_add_work">Add Work</string>
+    <string name="btn_add_shift">Add Shift</string>
+    <string name="stats">View Statistics</string>
+    <string name="title_activity_stats">StatsActivity</string>
+</resources>
